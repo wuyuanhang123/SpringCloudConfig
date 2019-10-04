@@ -1,11 +1,1 @@
-server:
-  port: 8090
-
-spring:
-  application:
-    name: eureka-producer
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8089/eureka/
+foo: hello
